@@ -7,6 +7,9 @@ const Page = () => {
             <Link href="/modal">
                 <p>Modal</p>
             </Link>
+            <Link href="/intercepting-routes/deep">
+                <p>Deep</p>
+            </Link>
         </div>
     );
 }
